@@ -1,0 +1,5 @@
+outs:
+- md5: 656b3fee9b94243e798bd98a4c0bf937
+  size: 344442070
+  hash: md5
+  path: vit-7class.pth
